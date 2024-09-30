@@ -9,8 +9,8 @@ Use of unsupervised learning techniques like Autoencoders for anomaly detection.
 Explanation of the steps from data preprocessing to model evaluation.
 Project Structure: Your folder structure might look like this:
 aml_project/
-├── aml-env/                 # Your virtual environment folder
-├── aml_transaction_monitoring.py   # Your Python script
+├── aml-env/                 #virtual environment folder
+├── aml_transaction_monitoring.py   #Python script
 Running the Script:
 
 With the virtual environment activated, run your Python script: python aml_transaction_monitoring.py
