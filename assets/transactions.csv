@@ -1,0 +1,15 @@
+﻿id,amount,type,fraud
+1,100,debit,0
+2,500,credit,1
+3,200,debit,0
+4,400,credit,0
+5,300,debit,1
+6,600,credit,0
+7,700,debit,0
+8,800,credit,1
+9,900,debit,0
+10,1000,credit,0
+11,500,credit,1
+12,800,debit,1
+13,200,credit,1
+
